@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499958297661",
+    "project_id": "vuetest-5d44c",
+    "storage_bucket": "vuetest-5d44c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499958297661:android:3bd5b089230c0903baa654",
+        "android_client_info": {
+          "package_name": "com.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499958297661-n7r99vnjmd5g5h7i9j0cj6e5neldkfst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDH259uuyJBlNgQkmY74m4dJyeGz_zBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499958297661-n7r99vnjmd5g5h7i9j0cj6e5neldkfst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
